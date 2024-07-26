@@ -1,0 +1,6 @@
+{
+  "loginRequest": {
+    "email": "jhon.doe@example.com",
+    "password": "12345678"
+  }
+}
